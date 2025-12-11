@@ -5,6 +5,6 @@ Made in GameMaker
 
 All assets made by Rin Estrella
 
-**Controls:((
+**Controls:**
 - Movement: WASD
 - Interact: K
